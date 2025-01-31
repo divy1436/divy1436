@@ -1,4 +1,9 @@
 # 💫 About Me:
+Hi there, I'm Divyanshu Maurya! 👋
+
+I'm a first-year Computer Science & Engineering student at Poornima College of Engineering. Passionate about frontend development and currently learning Java. I enjoy exploring ethical hacking, graphic design, video editing, and working with Linux. I love building and collaborating on open-source projects, and I'm constantly learning new technologies to improve my skills.
+
+Let's connect and collaborate! 🚀
 <br><br>💻 Git & GitHub<br><br>🌐 HTML, Frontend Development (learning)<br><br>☕ Java (learning, understood arrays)<br><br>🔢 C Programming, C++<br><br>🛡 Ethical Hacking<br><br>🎨 Graphic Design<br><br>🎬 Video Editing<br><br>🐧 Linux<br><br><br>
 
 
