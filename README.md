@@ -6,6 +6,8 @@ I'm a first-year Computer Science & Engineering student at Poornima College of E
 Let's connect and collaborate! 🚀
 <br><br>💻 Git & GitHub<br><br>🌐 HTML, Frontend Development (learning)<br><br>☕ Java (learning, understood arrays)<br><br>🔢 C Programming, C++<br><br>🛡 Ethical Hacking<br><br>🎨 Graphic Design<br><br>🎬 Video Editing<br><br>🐧 Linux<br><br><br>
 
+ ## TryHackMe
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4136500" style='border:none;'></iframe>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_divy1436_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-maurya-b5278b309/) 
