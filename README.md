@@ -28,6 +28,11 @@ I’m passionate about **frontend development** and currently learning **Java**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-maurya-b5278b309/)
 
 ---
+## streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=divy1436&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
