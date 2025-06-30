@@ -76,5 +76,5 @@ I’m passionate about **frontend development** and currently learning **Java**.
 
 ---
 
-<!-- Proudly created with ❤️ by Divyanshu Maurya -->
+<!-- Proudly created with  by Divyanshu Maurya -->
 
