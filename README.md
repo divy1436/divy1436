@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, SQL, C  
+- **Languages:** Java, JavaScript, SQL, C , c++  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Tools & Platforms:** Linux, Git/GitHub, XAMPP  
 - **Interests:** AI, Cybersecurity, Open-Source, UI/UX  
