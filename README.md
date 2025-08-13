@@ -1,7 +1,7 @@
 # Hi there, I'm Divyanshu Maurya! 👋  
 
 🎓 **Second-year Computer Science & Engineering Student**  
-📍 Poornima College of Engineering, Jaipur  
+📍 Poornima College of Engineering, Jaipur.  
 
 ---
 
