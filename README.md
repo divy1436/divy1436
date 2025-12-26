@@ -315,29 +315,7 @@ graph LR
 
 ---
 
-## 🎯 2025 Learning Goals
 
-### DevOps Mastery
-- [ ] Complete Jenkins certification training
-- [ ] Build production-ready CI/CD pipelines with GitLab
-- [ ] Master Docker & Kubernetes orchestration
-- [ ] Deploy scalable applications with Nginx load balancing
-- [ ] Implement Infrastructure as Code with Terraform
-- [ ] Set up complete monitoring stack (Prometheus + Grafana)
-
-### Cybersecurity
-- [ ] Complete 50+ TryHackMe rooms
-- [ ] Obtain CEH or OSCP certification
-- [ ] Build secure DevSecOps pipelines
-- [ ] Participate in CTF competitions
-
-### Development
-- [ ] Contribute to 10+ open source DevOps projects
-- [ ] Build full-stack application with complete CI/CD
-- [ ] Launch personal tech blog on DevOps & Security
-- [ ] Create YouTube tutorials on DevOps tools
-
----
 
 ## 💡 Featured Projects
 
