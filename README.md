@@ -11,6 +11,8 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/4136500)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divy1436)
 
+![Profile Views](https://komarev.com/ghpvc/?username=divy1436&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -19,28 +21,30 @@
 
 ```yaml
 name: Divyanshu Maurya
-located_in: Jaipur, Rajasthan, India
-current_education: B.Tech CSE, 2nd Year
-institution: Poornima College of Engineering
-interests:
-  - DevOps Engineering & Automation
-  - Cloud Infrastructure & Architecture
-  - Cybersecurity & Ethical Hacking
-  - CI/CD Pipeline Design
-  - Full Stack Development
-  - Open Source Contribution
-  - Design & Content Creation
-leadership:
-  - "Captain & Founder - Cybersecurity Club"
-  - "Former Vice Captain - Campus Activities"
-current_focus: "Building robust DevOps pipelines with Jenkins, GitLab CI/CD, and containerization"
+role: DevOps Engineer | Security Researcher | Full Stack Developer
+location: Jaipur, Rajasthan, India
+education: B.Tech in Computer Science & Engineering (2nd Year)
+college: Poornima College of Engineering
 ```
 
-<details>
-<summary>📖 More about me</summary>
-<br>
-I'm a passionate DevOps and security enthusiast who believes in automating everything and securing it by design. Currently mastering the art of CI/CD pipelines, infrastructure automation, and cloud-native technologies. I bridge the gap between development, operations, and security through hands-on projects and continuous learning. When I'm not building pipelines or breaking into systems (ethically!), you'll find me designing graphics, editing videos, or managing social media campaigns.
-</details>
+### 🚀 What I Do
+
+**DevOps Enthusiast** passionate about automating infrastructure, building CI/CD pipelines, and optimizing deployment workflows. I specialize in Jenkins, GitLab CI/CD, Docker, and Kubernetes for seamless software delivery.
+
+**Security Researcher** with hands-on experience in penetration testing, vulnerability assessment, and ethical hacking. Active on TryHackMe, constantly sharpening my offensive security skills.
+
+**Full Stack Developer** creating responsive web applications with modern technologies. I combine development expertise with DevOps practices to build scalable, secure systems.
+
+**Creative Designer** skilled in graphic design, video editing, and social media management—bringing technical and creative skills together.
+
+### 🎯 Leadership & Community
+
+- 👑 **Captain & Founder** - Cybersecurity Club
+- 🏅 **Former Vice Captain** - Campus Activities
+
+### 💡 Current Mission
+
+Building production-grade DevOps pipelines and implementing DevSecOps practices to bridge the gap between development, operations, and security. Always learning, always automating, always securing.
 
 ---
 
@@ -58,7 +62,6 @@ I'm a passionate DevOps and security enthusiast who believes in automating every
 - ☸️ **Kubernetes** - Container orchestration (Learning)
 - 🌐 **Nginx** - Web server, reverse proxy & load balancing
 - 🍅 **Tomcat** - Java servlet container & app deployment
-  
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +102,6 @@ I'm a passionate DevOps and security enthusiast who believes in automating every
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ### ⚙️ DevOps & CI/CD Tools
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -107,7 +109,6 @@ I'm a passionate DevOps and security enthusiast who believes in automating every
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 
 ### 🌐 Web Servers & Application Servers
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -117,17 +118,14 @@ I'm a passionate DevOps and security enthusiast who believes in automating every
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ### 🔧 Version Control & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### 🐧 Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -148,7 +146,6 @@ I'm a passionate DevOps and security enthusiast who believes in automating every
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
 </div>
 
 ---
@@ -159,16 +156,16 @@ I'm a passionate DevOps and security enthusiast who believes in automating every
 
 ```mermaid
 graph LR
-    A[Developer] -->|Push Code| B[GitLab/GitHub]
-    B -->|Webhook Trigger| C[Jenkins/GitLab CI]
-    C -->|Build| D[Maven/Gradle]
-    D -->|Test| E[JUnit/Selenium]
-    E -->|Package| F[Docker Image]
-    F -->|Push| G[Docker Registry]
-    G -->|Deploy| H[Kubernetes/Tomcat]
-    H -->|Serve| I[Nginx Load Balancer]
-    I -->|Monitor| J[Prometheus/Grafana]
-    J -->|Alert| K[Operations Team]
+    A[👨‍💻 Developer] -->|Push Code| B[📦 GitLab/GitHub]
+    B -->|Webhook| C[🔧 Jenkins/GitLab CI]
+    C -->|Build| D[📦 Maven/Gradle]
+    D -->|Test| E[✅ JUnit/Selenium]
+    E -->|Package| F[🐳 Docker Image]
+    F -->|Push| G[📦 Docker Registry]
+    G -->|Deploy| H[☸️ Kubernetes/Tomcat]
+    H -->|Serve| I[🌐 Nginx]
+    I -->|Monitor| J[📊 Prometheus/Grafana]
+    J -->|Alert| K[🚨 Ops Team]
 ```
 
 </div>
@@ -274,14 +271,11 @@ graph LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divy1436&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divy1436&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divy1436&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divy1436&theme=tokyonight&hide_border=false)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divy1436&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divy1436&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -291,7 +285,7 @@ graph LR
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=divy1436&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=divy1436&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -301,7 +295,9 @@ graph LR
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/4136500.png)](https://tryhackme.com/p/4136500)
+<img src="https://tryhackme-badges.s3.amazonaws.com/4136500.png" alt="TryHackMe Badge">
+
+**🔗 [Visit My TryHackMe Profile](https://tryhackme.com/p/4136500)**
 
 **Practicing offensive security and defensive strategies through hands-on labs**
 
@@ -309,38 +305,41 @@ graph LR
 
 ---
 
-## 📈 Activity Graph
-
-[![Divyanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divy1436&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-
-
-## 💡 Featured Projects
+## 📈 GitHub Activity Graph
 
 <div align="center">
 
-### 🚀 Coming Soon: DevOps Portfolio Projects
-
-Projects currently in development:
-- **Jenkins CI/CD Pipeline** - Automated deployment with Maven + Tomcat
-- **GitLab Auto DevOps** - Complete DevOps lifecycle automation
-- **Dockerized Microservices** - Containerized application with Nginx
-- **Kubernetes Cluster** - Production-ready K8s deployment
-- **Infrastructure as Code** - Terraform + Ansible automation
-
-*Check back soon for repository links!*
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divy1436&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
-## 💭 Dev Quote of the Day
+## 💡 Featured Projects
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🚀 DevOps Portfolio Projects (In Development)
+
+| Project | Tech Stack | Status |
+|---------|-----------|--------|
+| 🔧 **Jenkins CI/CD Pipeline** | Jenkins + Maven + Tomcat | 🟡 In Progress |
+| 🦊 **GitLab Auto DevOps** | GitLab CI + Docker + K8s | 🟡 In Progress |
+| 🐳 **Dockerized Microservices** | Docker + Nginx + Node.js | 🟡 In Progress |
+| ☸️ **Kubernetes Cluster** | K8s + Helm + Prometheus | 🔴 Planning |
+| 📜 **Infrastructure as Code** | Terraform + Ansible | 🔴 Planning |
+
+*Repository links will be added soon!*
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -350,25 +349,30 @@ Projects currently in development:
 
 <div align="center">
 
-### 🤝 Open to:
-✅ DevOps collaborations and projects  
-✅ Open source contributions  
-✅ Cybersecurity research and bug bounties  
-✅ Tech discussions and knowledge sharing  
-✅ Internship and learning opportunities  
+### 🤝 Open For
 
-### 📧 Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-maurya-b5278b309/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_divy1436_)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-### 💡 "The best way to predict the future is to automate it" 
-
-![](https://komarev.com/ghpvc/?username=divy1436&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-**⭐ Thanks for visiting! Don't forget to star repositories you find interesting ⭐**
+<table>
+<tr>
+<td align="center">💼</td>
+<td>DevOps Internships & Opportunities</td>
+</tr>
+<tr>
+<td align="center">🔐</td>
+<td>Cybersecurity Research & Bug Bounties</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td>Open Source Contributions</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td>Tech Discussions & Knowledge Sharing</td>
+</tr>
+<tr>
+<td align="center">🤝</td>
+<td>Collaboration on DevOps Projects</td>
+</tr>
+</table>
 
 </div>
 
@@ -376,8 +380,32 @@ Projects currently in development:
 
 <div align="center">
 
-### 🔥 Current Focus: Building production-grade DevOps pipelines with Jenkins, GitLab, Docker, and Kubernetes
+## 🌐 Connect With Me
 
-**"Automate Everything, Secure Everything, Monitor Everything"** 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-maurya-b5278b309/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_divy1436_)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divy1436)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/4136500)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Automate Everything. Secure Everything. Monitor Everything."
+
+### 🔥 Current Focus
+**Building production-grade DevOps pipelines with Jenkins, GitLab, Docker, and Kubernetes**
+
+---
+
+### ⭐ If you find my work interesting, consider starring my repositories!
+
+### 📧 Feel free to reach out for collaborations or just a tech chat!
+
+---
+
+**Thanks for visiting my profile! Have a great day! 🚀**
 
 </div>
