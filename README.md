@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Divyanshu Maurya!
 
-### 🔐 Cybersecurity Enthusiast | ⚙️ DevOps Engineer | 💻 Full Stack Developer | 🎨 Designer
+### 🔐 Cybersecurity Enthusiast | ⚙️ DevOps Engineer | 💻 Full Stack Developer |  🎨 Designer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Security+First+Developer;DevOps+%26+Cloud+Infrastructure+Engineer;CI%2FCD+Pipeline+Architect;Open+Source+Contributor;Automation+Enthusiast)](https://git.io/typing-svg)
 
