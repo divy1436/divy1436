@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Enthusiast | ⚙️ DevOps Engineer | 💻 Full Stack Developer |  🎨 Designer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Security+First+Developer;DevOps+%26+Cloud+Infrastructure+Engineer;CI%2FCD+Pipeline+Architect;Open+Source+Contributor;Automation+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Security+First+Developer;DevOps+%26+Cloud+Infrastructure+Engineer;CI%2FCD+Pipeline+Architect;Open+Source+Contributor;Automation+Enthusiast)](https://git.io/typing-svg) 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu-maurya-b5278b309/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_divy1436_)
