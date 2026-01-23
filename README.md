@@ -53,7 +53,7 @@ Building production-grade DevOps pipelines and implementing DevSecOps practices 
 <table>
 <tr>
 <td width="50%" valign="top">
-
+ 
 ### ⚙️ DevOps & CI/CD
 - 🔧 **Jenkins** - Building automated CI/CD pipelines
 - 🦊 **GitLab CI/CD** - Repository management & automation
