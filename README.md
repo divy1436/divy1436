@@ -23,7 +23,7 @@
 name: Divyanshu Maurya
 role: DevOps Engineer | Security Researcher | Full Stack Developer
 location: Jaipur, Rajasthan, India
-education: B.Tech in Computer Science & Engineering (2nd Year)
+education: B.Tech in Computer Science & Engineering (3rd Year)
 college: Poornima College of Engineering
 ```
 
